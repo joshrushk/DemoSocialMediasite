@@ -1,0 +1,29 @@
+<?php
+$LANG['SEARCH_BUTTON'] = "ძებნა";
+$LANG['Language_Title'] = "ენა";
+$LANG['Search_Title'] = "ძებნა";
+$LANG['Enter_Search_Name'] = "შეიყვანეთ მუსიკის, მომღერლის ან ვიდეოს სახელი";
+$LANG['Load_More_Items'] = "უფრო მეტი ვიდეო";
+$LANG['TITLE_HOME'] = "მთავარი გვერდი";
+$LANG['TITLE_TOP_PLAYLIST'] = "ტოპ პლეილისტები";
+$LANG['TITLE_EDIT_PROFILE'] = "პროფილის რედაქტირება";
+$LANG['TITLE_LOGOUT'] = "გამოსვლა";
+$LANG['TITLE_LOGIN'] = "შესვლა";
+$LANG['TITLE_SAVE_CHANGES'] = "შენახვა";
+$LANG['TITLE_REGISTER'] = "რეგისტრაცია";
+$LANG['TITLE_USERNAME'] = "ზედმეტსახელი";
+$LANG['TITLE_EMAIL'] = "ელ-ფოსტა";
+$LANG['TITLE_PASSWORD'] = "პაროლი";
+$LANG['TITLE_SIGNIN'] = "შესვლა";
+$LANG['TITLE_MY_PLAYLISTS'] = "ჩემი პლეილისტები";
+$LANG['TITLE_MY_BOOKMARKS'] = "ჩემი ჩანიშნულები";
+$LANG['TITLE_ENTER_NEW_PLAYLIST'] = "ჩაწერეთ პლეილისტის სახელი";
+$LANG['TITLE_CREATE'] = "შექმნა";
+$LANG['TITLE_NO_PLAYLISTS'] = "პლეილისტები ვერ მოიძებნა.";
+$LANG['TITLE_WRONG_USERNAME_OR_PASSWORD'] = "არასწორია ზედმეტსახელი ან პაროლი";
+$LANG['TITLE_FILL_OUT'] = "გთხოვთ შეავსოთ ყველა აუცილებელი ველი";
+$LANG['TITLE_USERNAME_TAKEN'] = "ზედმეტსახელი დაკავებულია";
+$LANG['TITLE_ADD_BOOKMARK'] = "ჩანიშვნა";
+$LANG['TITLE_ADD_TO_PLAYLIST'] = "პლეილისტში დამატება";
+$LANG['TITLE_UPLOADS'] = "ატვირთვა";
+?>

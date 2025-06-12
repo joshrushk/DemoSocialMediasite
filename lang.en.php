@@ -1,0 +1,29 @@
+<?php
+$LANG['SEARCH_BUTTON'] = "SEARCH";
+$LANG['Language_Title'] = "Language";
+$LANG['Search_Title'] = "Search";
+$LANG['Enter_Search_Name'] = "Enter name of music, artist or video";
+$LANG['Load_More_Items'] = "Load More Items";
+$LANG['TITLE_HOME'] = "HOME";
+$LANG['TITLE_TOP_PLAYLIST'] = "TOP PLAYLISTS";
+$LANG['TITLE_EDIT_PROFILE'] = "EDIT PROFILE";
+$LANG['TITLE_LOGOUT'] = "LOGOUT";
+$LANG['TITLE_LOGIN'] = "Login";
+$LANG['TITLE_SAVE_CHANGES'] = "Save changes";
+$LANG['TITLE_REGISTER'] = "Register";
+$LANG['TITLE_USERNAME'] = "Username";
+$LANG['TITLE_EMAIL'] = "Email";
+$LANG['TITLE_PASSWORD'] = "Password";
+$LANG['TITLE_SIGNIN'] = "Sign in";
+$LANG['TITLE_MY_PLAYLISTS'] = "MY PLAYLISTS";
+$LANG['TITLE_MY_BOOKMARKS'] = "MY BOOKMARKS";
+$LANG['TITLE_ENTER_NEW_PLAYLIST'] = "Enter new playlist name";
+$LANG['TITLE_CREATE'] = "Create";
+$LANG['TITLE_NO_PLAYLISTS'] = "There aren't any playlists yet.";
+$LANG['TITLE_WRONG_USERNAME_OR_PASSWORD'] = "Wrong username or password";
+$LANG['TITLE_FILL_OUT'] = "Please fill in all of the required fields";
+$LANG['TITLE_USERNAME_TAKEN'] = "Username already taken";
+$LANG['TITLE_ADD_BOOKMARK'] = "Add Bookmark";
+$LANG['TITLE_ADD_TO_PLAYLIST'] = "Add To Playlist";
+$LANG['TITLE_UPLOADS'] = "Uploads";
+?>
