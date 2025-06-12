@@ -1,0 +1,13 @@
+RewriteEngine on
+RewriteCond %{request_filename} -f
+RewriteRule ^(.*) $1 [L]
+
+RewriteRule ^1aWtPdaeKwG(.*)-(.*) /themes/$1/files.php?type=css&files=$2
+RewriteRule ^00cv6P016Bz(.*)-(.*) /themes/$1/files.php?type=javascript&files=$2
+RewriteRule ^images_(.*)/(.*)(.*)  /themes/$1/images/$2    [NC,L]
+
+
+RewriteRule ^play index.php
+RewriteRule    ^play?(.*)(/?)+$    index.php?view=play&cal=$1    [NC,L]
+RewriteRule    ^home!logout(/?)+$    index.php?view=home&act=logout    [NC,L]
+RewriteRule    ^activation/(.*)(/?)+$    index.php?stype=$1    [NC,L]
